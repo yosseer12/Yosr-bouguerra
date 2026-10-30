@@ -14,7 +14,7 @@ I'm a Software Engineering graduate from TEK-UP University, Tunisia, passionate 
 
 **Languages:** C#, Java, Kotlin, Python, JavaScript, TypeScript, PHP
 
-**Frontend:** Angular, React, HTML, CSS, Bootstrap
+**Frontend:** Angular, React, HTML, CSS
 
 **Backend:** .NET, ASP.NET Core, Symfony, Node.js
 
